@@ -1,6 +1,6 @@
 ### Bem-vindo ao perfil do Pedro Nascimento!
 
-- 🌱 Estudando C#, PHP, JS e SQL
+- 🌱 Estudando C#, PHP, JS, SQL e Python
 - 📫 Contate-me no email: pedrorcpla@outlook.com.br
 
  <div>
