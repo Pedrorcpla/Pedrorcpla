@@ -1,5 +1,6 @@
 ### Bem-vindo ao perfil do Pedro Nascimento!
 
+- 👨‍💻 Backend Developer - PHP
 - 🌱 Estudando AWS, PHP (Laravel e CodeIgniter), JS (React Js e React Native), SQL e Python
 - 📫 Contate-me no email: pedrorcpla@outlook.com.br
 - 💻 LinkedIn: www.linkedin.com/in/pedrorcpla/
